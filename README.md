@@ -8,7 +8,7 @@ Causation
 
 # Group Behavior
 
-## Temporal-Spatial Dimensions of Stimuli and Group Behavior
+#### Temporal-Spatial Dimensions of Stimuli and Group Behavior
 
 
 
