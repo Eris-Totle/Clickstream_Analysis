@@ -6,6 +6,10 @@ Correlation
 
 Causation
 
-Group Behavior
+# Group Behavior
+
+## Temporal-Spatial Dimensions of Stimuli and Group Behavior
+
+
 
 Considering Behaviorism
