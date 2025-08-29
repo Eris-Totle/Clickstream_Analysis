@@ -1,6 +1,6 @@
 # Behavioral-Data-Analysis
 
-Exploring more behaviora data analytic concepts on clickstream data. A permanent product of behavior, this is an opportunity to consider potential causes of revenue, validity of data on measuring behavior, and predictive value of the presented variables on revenue predicition. 
+Exploring more behaviora data analytic concepts on clickstream data. A permanent product of behavior, a neural network with be applied to this data to predict purchasing likelihood/value.
 
 
 ## References
