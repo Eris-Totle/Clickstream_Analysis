@@ -1,5 +1,5 @@
 # Clickstream Prediction
-The online purchasing intention dataset has been used by various studies for predicting likelihood of purchase based on user clickstream data. Features and imbalances within the dataset provide opportunities for different strategies, which will herein be explored. Previous attemps have included recurrent neural networks or XGboost classifiers to predict likelihood of purchased based on user clickstream predictors. This is an opportunity to explore and compare some methods used, while experimenting with other approaches. 
+The online purchasing intention dataset has been used by various studies for predicting likelihood of purchase based on user clickstream data. Features and imbalances within the dataset provide opportunities for different strategies, which will herein be explored. Previous attemps have included recurrent neural networks or XGboost classifiers to predict likelihood of purchased based on user clickstream predictors. This is an opportunity to explore and compare some methods used, while experimenting with other approaches, including bootstrap, evaluating its impact on prediciton. 
 
 
 ## References
